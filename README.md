@@ -4,7 +4,7 @@
 
 # Hi, I'm Johnson Wu 👋
 
-> Industrial Navigatiom(SD/HD) Map engineer turned educator.
+> Industrial Navigation(SD/HD) Map engineer turned educator.
 > Documenting 25+ years of navigation map industry experience
 > through open-source code and a forthcoming textbook.
 
