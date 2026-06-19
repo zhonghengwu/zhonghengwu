@@ -3,7 +3,7 @@
 # Hi, I'm Johnson Wu 👋
 
 > Industrial Navigation (SD/HD) Map engineer turned educator.
-> Documenting 25+ years of navigation map industry experience
+> Documenting 20+ years of navigation map industry experience
 > through open-source code and a forthcoming textbook.
 
 ## Who I Am
@@ -13,7 +13,7 @@
 - 📘 **Author** of *《导航电子地图原理》*
   *(Principles of Navigation Maps,*
   *Wuhan University Press, 2027, published as Zhongheng Wu)*
-- 🛣️ **25+ years** across navigation map industry
+- 🛣️ **20+ years** across navigation map industry
 
 ## Career Highlights
 
