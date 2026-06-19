@@ -7,7 +7,7 @@
 ## Who I Am
 
 - 🏢 **NVIDIA HD Mapping** engineer (Toronto)
-- 🌍 **NDS Association China Contritutor** since 2010 (15+ years)
+- 🌍 **NDS Association Contritutor** since 2010 (15+ years)
 - 📘 **Author** of *《导航电子地图原理》*
   *(Principles of Navigation Maps,*
   *Wuhan University Press, 2027, published as Zhongheng Wu)*
