@@ -44,6 +44,7 @@ open-source notebooks, tutorials, and tooling.
 ## Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/wu-johnson/) (Johnson Wu)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=8Zt6nbMAAAAJ) (11 publications)
 - 📚 [CSDN Blog](https://blog.csdn.net/keykeywu) (吴中恒)
 - 📍 Toronto, Canada
 
