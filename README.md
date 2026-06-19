@@ -32,14 +32,15 @@
 
 > **NavMap Lab** — *Where industrial practice meets open-source education.*
 
-Sharing industrial navigation map know-how through
-open-source notebooks, tutorials, and tooling.
+Open-source notebooks, tutorials, and tooling for navigation map
+learning, under the **NavMap Lab** banner.
 
-### Coming Soon
+### Repositories
 
-- 📓 `nav-map-tutorial` — Hands-on companion to my textbook
+- 📓 **nav-map-tutorial** — Hands-on companion to my textbook
   (Python + OpenStreetMap + Jupyter)
-- 📘 Errata + supplementary resources (launching with the book, 2027)
+- 📘 **Textbook errata + supplementary resources**
+  (launching with the book, 2027)
 
 ## Connect
 
