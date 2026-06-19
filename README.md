@@ -1,36 +1,36 @@
 # Hi, I'm Johnson Wu 👋
 
-> Navigation Map Engineer with 25+ years of industrial experience,
-> bridging Chinese HD Map industry to international audiences.
+> Industrial Navigatiom(SD/HD) Map engineer turned educator.
+> Documenting 25+ years of navigation map industry experience
+> through open-source code and a forthcoming textbook.
 
 ## Who I Am
 
-- 🏢 **Currently**: NVIDIA, HD Mapping engineer (Toronto)
-- 🌍 **NDS Association China Liaison** since 2010
+- 🏢 **NVIDIA HD Mapping** engineer (Toronto)
+- 🌍 **NDS Association China Contritutor** since 2010 (15+ years)
 - 📘 **Author** of *《导航电子地图原理》*
-  *(Principles of Navigation Electronic Maps,*
+  *(Principles of Navigation Maps,*
   *Wuhan University Press, 2027, published as Zhongheng Wu)*
-- 🇨🇳 **25+ years** in Chinese navigation map industry
+- 🛣️ **20+ years** across navigation map industry
   (NavInfo → GM → NVIDIA)
 
 ## What I'm Building
 
-> **NavMap Lab** — *Where industrial HD Map meets open-source education.*
+> **NavMap Lab** — *Where industrial practice meets open-source education.*
 
-Open-source resources for navigation electronic map learning,
-under the **NavMap Lab** banner.
+Sharing industrial navigation map know-how through
+open-source notebooks, tutorials, and tooling.
 
 ### Coming Soon
 
-- 📓 `nav-map-tutorial` — Companion tutorial to my textbook
+- 📓 `nav-map-tutorial` — Hands-on companion to my textbook
   (Python + OpenStreetMap + Jupyter)
-- 📘 Textbook errata + supplementary resources (2027 launch)
+- 📘 Errata + supplementary resources (launching with the book, 2027)
 
 ## Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/wu-johnson/) (Johnson Wu)
-- 📚 知乎 / CSDN: 吴中恒
 - 📍 Toronto, Canada
 
 ---
-*Johnson Wu (Zhongheng Wu / 吴中恒) · 25+ years in nav map industry*
+*Johnson Wu (Zhongheng Wu) · 20+ years in nav map industry*
