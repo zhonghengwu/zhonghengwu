@@ -23,7 +23,7 @@
   — end-to-end pipeline, ECU-side software
 - 🌐 **Delivered map systems across 5 countries, 3 continents**
   (China · Netherlands · Singapore · Canada · USA)
-- 📜 **11 publications · 18 patents · National S&T Progress Award** (1st-class, MoE)
+- 📜 **15 publications · 18 patents · National S&T Progress Award** (1st-class, MoE)
 - 🎓 **MSc GIS**, Wuhan University
 
 *Full résumé on [LinkedIn](https://linkedin.com/in/wu-johnson/)*
@@ -45,7 +45,7 @@ learning, under the **NavMap Lab** banner.
 ## Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/wu-johnson/) (Johnson Wu)
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=8Zt6nbMAAAAJ) (11 publications)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=8Zt6nbMAAAAJ) (15 publications)
 - 📚 [CSDN Blog](https://blog.csdn.net/keykeywu)
 - 📍 Toronto, Canada
 
