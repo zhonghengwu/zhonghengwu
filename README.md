@@ -45,7 +45,7 @@ learning, under the **NavMap Lab** banner.
 ## Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/wu-johnson/) (Johnson Wu)
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=8Zt6nbMAAAAJ) (15 publications)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=8Zt6nbMAAAAJ) (15+ publications)
 - 📚 [CSDN Blog](https://blog.csdn.net/keykeywu)
 - 📍 Toronto, Canada
 
