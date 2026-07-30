@@ -10,7 +10,7 @@
 
 - 🏢 **Autonomous Driving Mapping** engineer (Toronto)
 - 🌍 **NDS Association China Contributor** since 2008 (15+ years)
-- 📘 **Author** of *《导航电子地图原理》*
+- 📘 **Author** of *《导航电子地图原理与应用》*
   *(Principles of Navigation Maps,*
   *Wuhan University Press, 2027, published as Zhongheng Wu)*
 - 🛣️ **20+ years** across navigation map industry
