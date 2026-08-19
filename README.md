@@ -37,10 +37,12 @@ learning, under the **NavMap Lab** banner.
 
 ### Repositories
 
-- 📓 **navigation-map-tutorial** — Hands-on companion to my textbook
+- 📓 **navmap-tutorial** — Hands-on companion, build a navigation system from scratch
   (Python + OpenStreetMap + Jupyter)
-- 📘 **Textbook errata + supplementary resources**
+- 📘 **navmap-principles** — Textbook errata + supplementary resources
   (launching with the book, 2027)
+- 🗺️ **navmap-data-processing** — Code companion to the vocational-college textbook
+  on internal map data processing (Python + OpenStreetMap, parallel to the ArcGIS-based textbook)
 
 ## Connect
 
