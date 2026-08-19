@@ -41,8 +41,8 @@ learning, under the **NavMap Lab** banner.
   (Python + OpenStreetMap + Jupyter)
 - 📘 **navmap-principles** — Textbook errata + supplementary resources
   (launching with the book, 2027)
-- 🗺️ **navmap-data-processing** — Code companion to the vocational-college textbook
-  on internal map data processing (Python + OpenStreetMap, parallel to the ArcGIS-based textbook)
+- 🗺️ **navmap-data-processing** — Code companion to my textbook on map data production
+  (Python + OpenStreetMap, parallel to the ArcGIS-based textbook)
 
 ## Connect
 
