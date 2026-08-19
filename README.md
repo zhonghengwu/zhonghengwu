@@ -37,7 +37,8 @@ learning, under the **NavMap Lab** banner.
 
 ### Repositories
 
-- 📘 **navmap-principles** — Textbook errata + supplementary resources
+- 📘 **navmap-principles** — Companion repository for *Principles and Applications of
+  Navigation Maps*, including supplementary readings, examples, errata, and resources
   (launching with the book, 2027)
 - 📓 **navmap-tutorial** — Hands-on companion, build a navigation system from scratch
   (Python + OpenStreetMap + Jupyter)
